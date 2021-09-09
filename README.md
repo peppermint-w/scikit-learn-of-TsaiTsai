@@ -11,5 +11,5 @@ https://www.bilibili.com/video/BV1MA411J7wm
 07 SVM（上）<br>
 08 SVM（下）<br>
 09 线性回归、岭回归与Lasso<br>
-10 朴素贝叶斯
+10 朴素贝叶斯<br>
 11 xgboost
