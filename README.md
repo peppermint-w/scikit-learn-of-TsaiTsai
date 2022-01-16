@@ -1,6 +1,7 @@
 # 菜菜的scikit-learn课堂学习笔记
 ## 视频链接
-https://www.bilibili.com/video/BV1MA411J7wm
+https://www.bilibili.com/video/BV1Ch411x7xB
+https://www.bilibili.com/video/BV1WL4y1H7rD
 ## 目录
 01 决策树<br>
 02 随机森林<br>
