@@ -1,8 +1,8 @@
 # 菜菜的scikit-learn课堂学习笔记
 ## 视频链接
-https://www.bilibili.com/video/BV1Ch411x7xB<br>
-https://www.bilibili.com/video/BV1WL4y1H7rD<br>
-https://www.bilibili.com/video/BV1Ng411K7H6
+01-05：https://www.bilibili.com/video/BV1Ch411x7xB<br>
+06-09：https://www.bilibili.com/video/BV1WL4y1H7rD<br>
+10-12：https://www.bilibili.com/video/BV1Ng411K7H6
 ## 目录
 01 决策树<br>
 02 随机森林<br>
@@ -14,4 +14,5 @@ https://www.bilibili.com/video/BV1Ng411K7H6
 08 SVM（下）<br>
 09 线性回归、岭回归与Lasso<br>
 10 朴素贝叶斯<br>
-11 xgboost
+11 xgboost<br>
+12 神经网络
